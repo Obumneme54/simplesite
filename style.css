@@ -1,0 +1,32 @@
+h1{
+    color:teal;
+    font-style:italic;
+
+}
+
+
+p{
+    color:grey;
+font-size:17px;
+}
+
+li{
+    background-color:plum;
+    color:white;
+    padding:12px;
+    margin-bottom:5px;
+    list-style-type: none;
+    width:fit-content
+}
+
+
+
+a{
+    background-color:teal;
+    color:white;
+    padding:10px;
+    border-radius: 4px;
+    display:inline-block;
+    text-decoration:none;
+
+}
